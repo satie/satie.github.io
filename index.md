@@ -18,3 +18,4 @@ Cloud resources management tools -
 
 Miscellaneous howtos and guides -
 * [Recommended SSL configuration for web applications](how-to-ssllabs.md)
+* [Set up Cloudwatch alarms for RDS instances](rds-cloudwatch-alarms.md)
