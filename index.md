@@ -1,5 +1,5 @@
 I work at [hCentive](https://www.hcentive.com) as a technology manager, and contribute design and code for infrastructure maintenance.
-I am currently working is [AWS WAF](https://aws.amazon.com/waf/) and [AWS KMS](https://aws.amazon.com/kms/).
+I am currently working on [AWS WAF](https://aws.amazon.com/waf/) and [AWS KMS](https://aws.amazon.com/kms/).
 
 Some of my active projects for WAF are -
 * An [AWS Lambda function](https://github.com/hcentive/waf-update-ipdatabase) to create and update a database of blacklisted IP addresses.
