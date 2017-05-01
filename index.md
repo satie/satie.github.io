@@ -7,5 +7,5 @@ Some of my active projects for WAF are -
 * An [AWS Lambda function](https://github.com/hcentive/waf-update-badbotdata) to create and update [AWS WAF string match conditions](http://docs.aws.amazon.com/waf/latest/developerguide/web-acl-string-conditions.html) to reject requests from know malicious bots.
 
 Some work on KMS -
-* [Design for AWS Key Management System (KMS) implementation for hCentive](https://github.com/hcentive/kms)
+* [Design](https://github.com/hcentive/kms) for AWS Key Management System (KMS) implementation for hCentive
 * A [Ruby gem](https://github.com/hcentive/hcentive-kms-cli) for hCentive's KMS implementation
