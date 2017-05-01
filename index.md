@@ -5,3 +5,7 @@ Some of my active projects for WAF are -
 * An [AWS Lambda function](https://github.com/hcentive/waf-update-ipdatabase) to create and update a database of blacklisted IP addresses.
 * An [AWS Lambda function](https://github.com/hcentive/waf-update-blacklist) to create and update [WAF IPSets](http://docs.aws.amazon.com/waf/latest/APIReference/API_IPSet.html) from a [database of blacklisted IP addresses](https://github.com/hcentive/waf-update-ipdatabase).
 * An [AWS Lambda function](https://github.com/hcentive/waf-update-badbotdata) to create and update [AWS WAF string match conditions](http://docs.aws.amazon.com/waf/latest/developerguide/web-acl-string-conditions.html) to reject requests from know malicious bots.
+
+Some work on KMS -
+* [Design for AWS Key Management System (KMS) implementation for hCentive](https://github.com/hcentive/kms)
+* A [Ruby gem](https://github.com/hcentive/hcentive-kms-cli) for hCentive's KMS implementation
