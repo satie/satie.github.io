@@ -13,3 +13,5 @@ Some work on KMS -
 Cloud resources management tools - 
 * [Design](https://github.com/hcentive/cloudmanage) for hCentive's cloud resource management tool
 * [EC2 instance startup and shutdown tool](https://github.com/hcentive/ec2-startup-shutdown) based on start and stop times defined in instance tags
+* [Nagios plugin](https://github.com/hcentive/socketlabs-status) for [Socketlabs](https://www.socketlabs.com) SMTP server usage metrics
+* [NodeJS module](https://github.com/hcentive/brocade-update-firewall) to update [Brocade VTM](http://www.brocade.com/en/products-services/software-networking/application-delivery-controllers/virtual-traffic-manager.html) security protection class and rules
