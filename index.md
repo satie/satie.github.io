@@ -9,3 +9,6 @@ Some of my active projects for WAF are -
 Some work on KMS -
 * [Design](https://github.com/hcentive/kms) for AWS Key Management System (KMS) implementation for hCentive
 * A [Ruby gem](https://github.com/hcentive/hcentive-kms-cli) for hCentive's KMS implementation
+
+Cloud resources management tools - 
+* [Design](https://github.com/hcentive/cloudmanage) for hCentive's cloud resource management tool
