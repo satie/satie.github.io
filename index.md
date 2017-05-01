@@ -12,3 +12,4 @@ Some work on KMS -
 
 Cloud resources management tools - 
 * [Design](https://github.com/hcentive/cloudmanage) for hCentive's cloud resource management tool
+* [EC2 instance startup and shutdown tool](https://github.com/hcentive/ec2-startup-shutdown) based on start and stop times defined in instance tags
