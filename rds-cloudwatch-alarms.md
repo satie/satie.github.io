@@ -9,6 +9,7 @@ $ aws cloudwatch list-metrics --namespace "AWS/RDS"
 Design
 ------
 RDS instances post CPU utilization, binary log usage, number of database connections, free storage, sway usage and read/write latency. Alarms are setup to send notifications when the threshold for metrics are breached. When state of an alarm changes from `OK` to `ALARM`, a [SNS](http://aws.amazon.com/sns/) notification is sent to subscribers of the SNS topic.
+
 Setup
 -----
 The following steps need to be completed to setup up alarms for every set of servers - for example, demo servers for PHIX.
