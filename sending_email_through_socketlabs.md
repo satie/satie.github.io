@@ -149,7 +149,7 @@ The [MimeMessage](https://javamail.java.net/nonav/docs/api/javax/mail/internet/M
 Message message = new MimeMessage(session);
 message.setHeader("X-xsMailingId", "TECHOPS-TEST");
 ```
-An example of using the JavaMail API to send email via SocketLabs is available [here](SendMailSocketLabs.java)
+An example of using the JavaMail API to send email via SocketLabs is available [here](code/SendMailSocketLabs.java)
 ##### Adeptia
 Adeptia supports sending email over SSL. When configuring a `Mail` target under `Services`, enable SSL and set the port to `465` to send email over SSL.
 
