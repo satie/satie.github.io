@@ -21,3 +21,4 @@ Miscellaneous howtos and guides -
 * [Set up Cloudwatch alarms for RDS instances](rds-cloudwatch-alarms.md)
 * [dm-crypt performance on CentOS 6 and CentOS 7](https://github.com/satie/dm-crypt-centos-performance)
 * [Git setup at hCentive](https://github.com/hcentive/git-setup)
+* [Sending email through Socketlabs](sending_email_through_socketlabs.md)
