@@ -22,4 +22,5 @@ Miscellaneous howtos and guides -
 * [dm-crypt performance on CentOS 6 and CentOS 7](https://github.com/satie/dm-crypt-centos-performance)
 * [Git setup at hCentive](https://github.com/hcentive/git-setup)
 * [Sending email through Socketlabs](sending_email_through_socketlabs.md)
-* [Chef cookbook design](https://github.com/hcentive/chef)
+* [EC2 AMI provisioning with Chef and Packer](https://github.com/hcentive/ec2-ami-provisioning)
+* [Chef cookbook design](https://github.com/hcentive/ec2-ami-provisioning/blob/master/cookbook-design.md)
