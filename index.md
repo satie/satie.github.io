@@ -1,7 +1,13 @@
-I work at [hCentive](https://www.hcentive.com) as a technology manager, and contribute design and code for infrastructure maintenance.
-I am currently working on [AWS WAF](https://aws.amazon.com/waf/) and [AWS KMS](https://aws.amazon.com/kms/).
+I work at [CounterFlow](https://www.counterflow.ai) as a software engineer where I help develop intelligent network trafic analysis and recording products.
 
-Some of my active projects for WAF are -
+Some of the projects I work on -
+* CounterFlow's fork of [EveBox](https://github.com/counterflow-ai/evebox), a web-based [Suricata](https://suricata-ids.org/) event viewer.
+* [Splunk app](https://splunkbase.splunk.com/app/4405/) for ThreatEye network recorder.
+
+
+Previously, I worked at [hCentive](https://www.hcentive.com) as a technology manager, and contributed design and code for infrastructure maintenance on AWS.
+
+Some of my older projects for WAF -
 * An [AWS Lambda function](https://github.com/hcentive/waf-update-ipdatabase) to create and update a database of blacklisted IP addresses.
 * An [AWS Lambda function](https://github.com/hcentive/waf-update-blacklist) to create and update [WAF IPSets](http://docs.aws.amazon.com/waf/latest/APIReference/API_IPSet.html) from a [database of blacklisted IP addresses](https://github.com/hcentive/waf-update-ipdatabase).
 * An [AWS Lambda function](https://github.com/hcentive/waf-update-badbotdata) to create and update [AWS WAF string match conditions](http://docs.aws.amazon.com/waf/latest/developerguide/web-acl-string-conditions.html) to reject requests from know malicious bots.
